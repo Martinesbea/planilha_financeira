@@ -37,7 +37,5 @@ Gerencie suas finanças de forma simples e eficaz com esta Planilha Financeira e
 
 - [Documentação Oficial do Excel](https://support.microsoft.com/excel)
 
----
 
-**Desenvolvido com 💙 por [Beatriz Martins]**
 
